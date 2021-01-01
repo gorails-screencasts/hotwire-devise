@@ -2,6 +2,7 @@
   "name": "devise-hotwired",
   "private": true,
   "dependencies": {
+    "@hotwired/turbo": "https://github.com/hotwired/turbo/archive/dev-builds/latest.tar.gz",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
@@ -11,8 +12,7 @@
     "expose-loader": "^1.0.3",
     "jquery": "^3.5.1",
     "local-time": "^2.1.0",
-    "popper.js": "^1.16.1",
-    "turbolinks": "^5.2.0"
+    "popper.js": "^1.16.1"
   },
   "version": "0.1.0",
   "devDependencies": {
