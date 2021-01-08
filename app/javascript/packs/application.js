@@ -7,7 +7,7 @@ require("@rails/ujs").start()
 require("@rails/activestorage").start()
 require("channels")
 require("local-time").start()
-require("@hotwired/turbo")
+require("@hotwired/turbo-rails")
 
 window.Rails = Rails
 
